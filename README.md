@@ -9,3 +9,6 @@ npm run dev
 
 //Install github pages
 npm install gh-pages --save-dev
+
+//Deploy to github pages
+npm run deploy

@@ -7,7 +7,7 @@ export default [
     },
     {
         year: '2013',
-        title: 'Polytechnic of Zagreb - TVZ',
+        title: 'Computer Science (bacc. ing. comp.) @ Tehničko veleučilište u Zagrebu',
         duration: '5 years',
         details: 'Finishing up highschool and still being interested in computer science even more came time to choose College. Tehničko veleučilište u Zagrebu seemed like perfect fit so i decidet to enroll and get on with acquiring real life skills in regards to computer science.'
     },

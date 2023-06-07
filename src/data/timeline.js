@@ -15,6 +15,6 @@ export default [
         year: '2013',
         title: 'Graduated @ I. tehnicka skola Tesla',
         duration: '4 years',
-        details: 'After showing interest in computers and electronics I decided to get education in same field'
+        details: 'After showing interest in computers and electronics I decided to get education in same field.'
     }
 ]

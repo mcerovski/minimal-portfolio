@@ -12,3 +12,5 @@ npm install gh-pages --save-dev
 
 //Deploy to github pages
 npm run deploy
+
+works on github pages and vercel
